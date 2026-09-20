@@ -60,7 +60,7 @@ Averages are across all crops. Water efficiency is in tonnes per 1,000 m³.
 |---|---|
 | `Seasonal_Agriculture_Performance_Analysis.ipynb` | Full analysis with code, outputs and written interpretation |
 | `seasonal_agriculture_performance_dataset.csv` | Dataset (4,000 rows, 28 columns) |
-| `Seasonal_Agriculture_Performance_Presentation.pdf` | Project presentation |
+| `Seasonal_Agriculture_Performance_Presentation.pptx` | Project presentation (PowerPoint) |
 | `Problem_Statement.pdf` | Project brief from the program |
 
 ## How to run
